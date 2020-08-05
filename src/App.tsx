@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import './App.css';
 import { makeStyles, createMuiTheme, Box } from '@material-ui/core';
 import { ThemeProvider } from '@material-ui/styles';
-import { BrowserRouter as Router, Switch, Route, useLocation} from "react-router-dom";
+import { HashRouter, BrowserRouter as Router, Switch, Route, useLocation} from "react-router-dom";
 import About from './components/About';
 import Home from './components/Home';
 import Product from './components/Product';
@@ -30,8 +30,9 @@ const theme = createMuiTheme({
 function App() {
   const classes = useStyles(undefined);
   return (
-    <Box>
-    <ThemeProvider theme={theme}>
+    <HashRouter basename="/">
+      <Box>
+      <ThemeProvider theme={theme}>
         <TopNav />
         <Box className={classes.root}>
         <Switch>
@@ -52,6 +53,7 @@ function App() {
         <Text style={{color: "white"}}>Copyright © slickGoose | University of Wollongong</Text>
       </Flex>
       </Box>
+    </HashRouter>
   );
 }
 
