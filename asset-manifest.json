@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/slickgoose/static/css/main.fa528afc.chunk.css",
-    "main.js": "/slickgoose/static/js/main.de7fcec3.chunk.js",
-    "main.js.map": "/slickgoose/static/js/main.de7fcec3.chunk.js.map",
+    "main.js": "/slickgoose/static/js/main.112afcd6.chunk.js",
+    "main.js.map": "/slickgoose/static/js/main.112afcd6.chunk.js.map",
     "runtime-main.js": "/slickgoose/static/js/runtime-main.b9d5e9f0.js",
     "runtime-main.js.map": "/slickgoose/static/js/runtime-main.b9d5e9f0.js.map",
-    "static/js/2.abbb8488.chunk.js": "/slickgoose/static/js/2.abbb8488.chunk.js",
-    "static/js/2.abbb8488.chunk.js.map": "/slickgoose/static/js/2.abbb8488.chunk.js.map",
+    "static/js/2.98a696a8.chunk.js": "/slickgoose/static/js/2.98a696a8.chunk.js",
+    "static/js/2.98a696a8.chunk.js.map": "/slickgoose/static/js/2.98a696a8.chunk.js.map",
     "index.html": "/slickgoose/index.html",
-    "precache-manifest.cd681e0060954d14cb8b3d7c7ca49aee.js": "/slickgoose/precache-manifest.cd681e0060954d14cb8b3d7c7ca49aee.js",
+    "precache-manifest.8bf0d8264063a541491f4f3a7330c6eb.js": "/slickgoose/precache-manifest.8bf0d8264063a541491f4f3a7330c6eb.js",
     "service-worker.js": "/slickgoose/service-worker.js",
     "static/css/main.fa528afc.chunk.css.map": "/slickgoose/static/css/main.fa528afc.chunk.css.map"
   }
