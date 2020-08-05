@@ -1,0 +1,20 @@
+.ourClient {
+	text-transform: uppercase;
+	background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.projectTeam {
+	text-transform: uppercase;
+	background: linear-gradient(to right, #2C3E50 0%, #000000 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.targetUsers {
+	background: linear-gradient(to right, #005238 0%, #FFCD00 30%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	border-bottom: 2px dotted rgb(0,0,0, 0.2);
+}
