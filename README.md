@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Marketing website for Sunflower project
+
+Demo: https://sophievu2711.github.io/slickgoose/#/
 
 ## Available Scripts
 
